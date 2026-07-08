@@ -24,7 +24,7 @@ return new class extends Migration
     }
 
     /**
-     * Reverse the migrations.
+     * Reverse the migrations.php artisan make:request User/SetNewPasswordRequest
      */
     public function down(): void
     {
